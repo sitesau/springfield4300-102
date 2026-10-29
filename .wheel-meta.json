@@ -1,0 +1,22 @@
+{
+  "wheel_id": 502,
+  "structure": "umbrella",
+  "slug": "springfield4300-102",
+  "project": "local-businesses-springfield-qld-how-to-choose-0078f926dc4db59e",
+  "parent_t1_ref": "springfield4300-150",
+  "node_role": "feeder",
+  "money_target": "springfield4300.com.au",
+  "primary_kw": "local businesses springfield qld how to choose",
+  "intended_url": "https://sitesau.github.io/springfield4300-102/",
+  "tier": "T2",
+  "writeback_nonce": "cba03a205f932a01",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/local-businesses-springfield-qld-282098d8bb0d9c5f8ab27d0a8794c2/",
+      "anchor": "the full guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
